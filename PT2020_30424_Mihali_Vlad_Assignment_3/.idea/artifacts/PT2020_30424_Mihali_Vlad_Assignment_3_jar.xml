@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PT2020_30424_Mihali_Vlad_Assignment_3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PT2020_30424_Mihali_Vlad_Assignment_3_jar</output-path>
+    <root id="archive" name="PT2020_30424_Mihali_Vlad_Assignment_3.jar">
+      <element id="module-output" name="PT2020_30424_Mihali_Vlad_Assignment_3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/pdfbox-2.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/fontbox-2.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/itextpdf-5.4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
